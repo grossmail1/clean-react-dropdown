@@ -1,6 +1,6 @@
 {
     "name": "clean-react-dropdown",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "description": "Boilerplate for creating React Npm packages with ES2015",
     "repository": {
         "type": "git",
